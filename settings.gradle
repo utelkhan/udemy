@@ -1,2 +1,3 @@
 rootProject.name = 'udemy'
 
+include 'java_microservices_sqrs'
